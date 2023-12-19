@@ -1,0 +1,32 @@
+/* style2.css */
+*{
+    font-family: sans-serif;
+}
+
+
+body {
+    background-color: #7F7C81;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    cursor: pointer;
+}
+
+
+
+
+.container {
+    text-align: center;
+}
+
+
+
+
+.center-content {
+    background-color: #D9D9D9;
+    padding: 65px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.7);
+}
